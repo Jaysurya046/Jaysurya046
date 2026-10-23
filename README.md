@@ -20,7 +20,8 @@
   <a href="#about-me">About</a> ·
   <a href="#selected-projects">Projects</a> ·
   <a href="#toolkit">Toolkit</a> ·
-  <a href="#highlights">Highlights</a>
+  <a href="#highlights">Highlights</a> ·
+  <a href="#github-stats">GitHub Stats</a>
 </p>
 
 ## About me
@@ -71,17 +72,12 @@ A selection of my work across applied AI, backend engineering, and cloud develop
 | CodeChef | **2-star · 1474** | [jaysurya046](https://www.codechef.com/users/jaysurya046) |
 | Codeforces | **1009** | [jaysurya046](https://codeforces.com/profile/jaysurya046) |
 
-<details>
-<summary><strong>GitHub activity &amp; languages</strong></summary>
-
-<br />
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaysurya046&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Jaya Surya's public GitHub contribution statistics" width="440" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysurya046&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages across public GitHub repositories" width="340" />
 </p>
-
-</details>
 
 ---
 
