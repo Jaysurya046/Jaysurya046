@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jaya Surya — Backend, Full-Stack and Applied AI</title>
+  <desc id="desc">A dark navy banner with cyan typography and a connected systems illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#14283b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#67e8f9" stroke-opacity=".06"/>
+    </pattern>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M56 64H104" stroke="#67e8f9" stroke-width="4" stroke-linecap="round"/>
+  <text x="56" y="109" fill="#67e8f9" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="3">JAYSURYA046 / DEVELOPER</text>
+  <text x="52" y="199" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Jaya Surya.</text>
+  <text x="56" y="248" fill="#c5d6e6" font-family="Segoe UI, Arial, sans-serif" font-size="23">Backend. Full-stack. Applied AI.</text>
+  <text x="56" y="307" fill="#89a6bd" font-family="ui-monospace, Consolas, monospace" font-size="15" letter-spacing="2">IIIT PUNE / COMPUTER SCIENCE / 2027</text>
+  <g fill="none" stroke="#67e8f9">
+    <circle cx="1042" cy="180" r="126" stroke-opacity=".13"/>
+    <circle cx="1042" cy="180" r="92" stroke-opacity=".22"/>
+    <path d="M862 118H931L977 164M1107 164L1153 118H1205M862 245H931L977 199M1107 199L1153 245H1205" stroke-opacity=".55" stroke-width="2"/>
+  </g>
+  <rect x="964" y="136" width="156" height="88" rx="15" fill="#101e2e" stroke="#67e8f9" stroke-opacity=".6"/>
+  <g fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1007 164L990 180L1007 196M1077 164L1094 180L1077 196M1050 158L1034 202"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="862" cy="118" r="5"/>
+    <circle cx="1205" cy="118" r="5"/>
+    <circle cx="862" cy="245" r="5"/>
+  </g>
+  <circle cx="1205" cy="245" r="5" fill="#fbbf24"/>
+  <path d="M56 338H1224" stroke="#67e8f9" stroke-opacity=".16"/>
+</svg>
