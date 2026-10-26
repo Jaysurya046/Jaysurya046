@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaysurya046"><img src="https://img.shields.io/badge/LinkedIn-Connect-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logoColor=63E6C4" alt="Connect with Jaya Surya on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jaya-surya-chennaboyana"><img src="https://img.shields.io/badge/LinkedIn-Connect-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logoColor=63E6C4" alt="Connect with Jaya Surya on LinkedIn" /></a>
   <a href="mailto:jayasuryachennaboyana@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logo=gmail&amp;logoColor=63E6C4" alt="Email Jaya Surya" /></a>
-  <a href="https://www.codechef.com/users/jaysurya046"><img src="https://img.shields.io/badge/CodeChef-jaysurya046-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logo=codechef&amp;logoColor=63E6C4" alt="Jaya Surya on CodeChef" /></a>
-  <a href="https://codeforces.com/profile/jaysurya046"><img src="https://img.shields.io/badge/Codeforces-jaysurya046-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logo=codeforces&amp;logoColor=63E6C4" alt="Jaya Surya on Codeforces" /></a>
+  <a href="https://www.codechef.com/users/jay_surya"><img src="https://img.shields.io/badge/CodeChef-jay__surya-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logo=codechef&amp;logoColor=63E6C4" alt="Jaya Surya on CodeChef" /></a>
+  <a href="https://codeforces.com/profile/jayasuryachennaboyana"><img src="https://img.shields.io/badge/Codeforces-jayasuryachennaboyana-163A3D?style=for-the-badge&amp;labelColor=0B1220&amp;logo=codeforces&amp;logoColor=63E6C4" alt="Jaya Surya on Codeforces" /></a>
 </p>
 
 <p align="center">
@@ -119,8 +119,8 @@ I practice algorithms alongside my project work. Personal best ratings:
 
 | Platform | Personal best | Profile |
 | :--- | :--- | :--- |
-| **CodeChef** | 2-star · **1474** | [jaysurya046](https://www.codechef.com/users/jaysurya046) |
-| **Codeforces** | **1009** | [jaysurya046](https://codeforces.com/profile/jaysurya046) |
+| **CodeChef** | 2-star · **1474** | [jay_surya](https://www.codechef.com/users/jay_surya) |
+| **Codeforces** | **1009** | [jayasuryachennaboyana](https://codeforces.com/profile/jayasuryachennaboyana) |
 
 ## GitHub Stats
 
@@ -139,6 +139,6 @@ I practice algorithms alongside my project work. Personal best ratings:
 
 <p align="center">
   <a href="mailto:jayasuryachennaboyana@gmail.com">jayasuryachennaboyana@gmail.com</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/jaysurya046">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/jaya-surya-chennaboyana">LinkedIn</a> &nbsp; · &nbsp;
   <a href="https://github.com/Jaysurya046?tab=repositories">GitHub projects</a>
 </p>
