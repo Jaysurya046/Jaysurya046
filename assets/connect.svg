@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Let&#x27;s build something useful</title><desc id="desc">Get in touch with Jaya Surya about AI agents, backend systems and cloud applications.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132537"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8BB9FF" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="190" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="188" rx="19" fill="url(#grid)" stroke="#263A4C"/>
+<text x="42" y="55" font-family="Consolas, monospace" font-size="15" font-weight="500" fill="#63E6C4" letter-spacing="2">HAVE AN IDEA WORTH BUILDING?</text><text x="42" y="109" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="600" fill="#EDF5FA" letter-spacing="-1">Let&#x27;s build something useful.</text><text x="42" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#B4C5D4" >AI agents · Backend systems · Cloud applications</text><rect x="900" y="59" width="250" height="57" rx="10" fill="#163A3D" stroke="#37645F"/><text x="1025" y="95" font-family="Consolas, monospace" font-size="19" font-weight="600" fill="#63E6C4" text-anchor="middle">GET IN TOUCH  ↗</text>
+</svg>

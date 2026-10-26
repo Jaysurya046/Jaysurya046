@@ -1,40 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Jaya Surya — Backend, Full-Stack and Applied AI</title>
-  <desc id="desc">A dark navy banner with cyan typography and a connected systems illustration.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#14283b"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#67e8f9" stroke-opacity=".06"/>
-    </pattern>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop stop-color="#67e8f9"/>
-      <stop offset="1" stop-color="#fbbf24"/>
-    </linearGradient>
-  </defs>
-  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
-  <path d="M56 64H104" stroke="#67e8f9" stroke-width="4" stroke-linecap="round"/>
-  <text x="56" y="109" fill="#67e8f9" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="3">JAYSURYA046 / DEVELOPER</text>
-  <text x="52" y="199" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Jaya Surya.</text>
-  <text x="56" y="248" fill="#c5d6e6" font-family="Segoe UI, Arial, sans-serif" font-size="23">Backend. Full-stack. Applied AI.</text>
-  <text x="56" y="307" fill="#89a6bd" font-family="ui-monospace, Consolas, monospace" font-size="15" letter-spacing="2">IIIT PUNE / COMPUTER SCIENCE / 2027</text>
-  <g fill="none" stroke="#67e8f9">
-    <circle cx="1042" cy="180" r="126" stroke-opacity=".13"/>
-    <circle cx="1042" cy="180" r="92" stroke-opacity=".22"/>
-    <path d="M862 118H931L977 164M1107 164L1153 118H1205M862 245H931L977 199M1107 199L1153 245H1205" stroke-opacity=".55" stroke-width="2"/>
-  </g>
-  <rect x="964" y="136" width="156" height="88" rx="15" fill="#101e2e" stroke="#67e8f9" stroke-opacity=".6"/>
-  <g fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M1007 164L990 180L1007 196M1077 164L1094 180L1077 196M1050 158L1034 202"/>
-  </g>
-  <g fill="#67e8f9">
-    <circle cx="862" cy="118" r="5"/>
-    <circle cx="1205" cy="118" r="5"/>
-    <circle cx="862" cy="245" r="5"/>
-  </g>
-  <circle cx="1205" cy="245" r="5" fill="#fbbf24"/>
-  <path d="M56 338H1224" stroke="#67e8f9" stroke-opacity=".16"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Jaya Surya — Backend, full-stack and applied AI</title><desc id="desc">Computer Science at IIIT Pune, graduating in 2027. Building APIs, real-time systems, AI agents and cloud applications. A schematic connects client, agent, API, data and cloud.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132537"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8BB9FF" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="460" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="458" rx="19" fill="url(#grid)" stroke="#263A4C"/>
+<text x="48" y="50" font-family="Consolas, monospace" font-size="16" font-weight="500" fill="#63E6C4" letter-spacing="2">JAYSURYA046 / ENGINEERING NOTEBOOK</text><text x="48" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="700" fill="#EDF5FA" letter-spacing="-3">Jaya Surya</text><text x="48" y="205" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="500" fill="#63E6C4" >Backend. Full-stack. Applied AI.</text><text x="48" y="259" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="400" fill="#B4C5D4" >From a useful idea to a working system.</text><path d="M48 296H657" stroke="#263A4C" fill="none" /><text x="48" y="335" font-family="Consolas, monospace" font-size="15" font-weight="500" fill="#B4C5D4" letter-spacing="1.6">COMPUTER SCIENCE</text><text x="48" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" fill="#EDF5FA" >IIIT Pune</text><text x="290" y="335" font-family="Consolas, monospace" font-size="15" font-weight="500" fill="#B4C5D4" letter-spacing="1.6">GRADUATING</text><text x="290" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" fill="#EDF5FA" >2027</text><text x="48" y="425" font-family="Consolas, monospace" font-size="15" font-weight="400" fill="#B4C5D4" >APIs  /  REAL-TIME SYSTEMS  /  AI AGENTS  /  CLOUD</text><rect x="728" y="40" width="430" height="380" rx="16" fill="#0C1725" stroke="#263A4C"/><text x="752" y="72" font-family="Consolas, monospace" font-size="14" font-weight="500" fill="#B4C5D4" >IDEA → INTERFACE → INFRASTRUCTURE</text><circle cx="941" cy="228" r="133" fill="none" stroke="#284455" stroke-dasharray="4 10"/><circle cx="941" cy="228" r="101" fill="none" stroke="#203444"/><rect x="774" y="114" width="140" height="48" rx="9" fill="#0E1C2A" stroke="#3C5869"/><text x="844.0" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" fill="#8BB9FF" text-anchor="middle">CLIENT</text><rect x="976" y="114" width="140" height="48" rx="9" fill="#0E1C2A" stroke="#3C5869"/><text x="1046.0" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" fill="#F4CA83" text-anchor="middle">AGENT</text><rect x="874" y="219" width="140" height="48" rx="9" fill="#0E1C2A" stroke="#3C5869"/><text x="944.0" y="248" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" fill="#63E6C4" text-anchor="middle">API</text><rect x="774" y="320" width="140" height="48" rx="9" fill="#0E1C2A" stroke="#3C5869"/><text x="844.0" y="349" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" fill="#8BB9FF" text-anchor="middle">DATA</text><rect x="976" y="320" width="140" height="48" rx="9" fill="#0E1C2A" stroke="#3C5869"/><text x="1046.0" y="349" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" fill="#F4CA83" text-anchor="middle">CLOUD</text><path d="M844 162V184H944V219" fill="none" stroke="#63E6C4" stroke-opacity=".6" stroke-width="2"/><path d="M1046 162V184H944" fill="none" stroke="#63E6C4" stroke-opacity=".6" stroke-width="2"/><path d="M944 267V292H844V320" fill="none" stroke="#63E6C4" stroke-opacity=".6" stroke-width="2"/><path d="M944 292H1046V320" fill="none" stroke="#63E6C4" stroke-opacity=".6" stroke-width="2"/><circle cx="944" cy="184" r="4" fill="#63E6C4"/><circle cx="944" cy="292" r="4" fill="#63E6C4"/><text x="943" y="400" font-family="Consolas, monospace" font-size="14" font-weight="500" fill="#63E6C4" text-anchor="middle" letter-spacing="1.8">BUILD · CONNECT · ITERATE</text>
 </svg>
