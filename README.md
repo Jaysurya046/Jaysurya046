@@ -66,25 +66,48 @@ A full-stack marketplace combining Django auction management, a Node.js/Socket.i
 
 ### More things I've built
 
-| Project | What it explores | Stack |
-| :--- | :--- | :--- |
-| **[WebNavigator AI](https://github.com/Jaysurya046/WebNavigator-AI)** | LLM-powered website navigation and multi-step browser tasks. | Python · Gemini · Playwright |
-| **[Serverless Expense Tracker](https://github.com/Jaysurya046/Serverless_Expense_Tracker)** | Expense tracking with static hosting, REST APIs and serverless storage. | AWS Lambda · API Gateway · S3 · DynamoDB |
-| **[CareDose](https://github.com/Jaysurya046/CareDose)** | Prescription OCR, medication reminders and adherence tracking. | TypeScript · Vite · Tesseract.js · PDF.js |
+<a href="https://github.com/Jaysurya046/WebNavigator-AI">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/more-webnavigator-mobile.svg" />
+    <img src="./assets/more-webnavigator.svg" width="100%" alt="WebNavigator AI — LLM-powered website navigation and multi-step browser tasks. Python, Gemini, Playwright. Open the repository." />
+  </picture>
+</a>
+
+<a href="https://github.com/Jaysurya046/Serverless_Expense_Tracker">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/more-expense-mobile.svg" />
+    <img src="./assets/more-expense.svg" width="100%" alt="Serverless Expense Tracker — Expense tracking with REST APIs, Lambda compute and DynamoDB storage. Lambda, API Gateway, S3, DynamoDB. Open the repository." />
+  </picture>
+</a>
+
+<a href="https://github.com/Jaysurya046/CareDose">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/more-caredose-mobile.svg" />
+    <img src="./assets/more-caredose.svg" width="100%" alt="CareDose — Prescription OCR, medication reminders and adherence tracking. TypeScript, Vite, Tesseract.js, PDF.js. Open the repository." />
+  </picture>
+</a>
 
 [Financial Portfolio Tracking & Alerts](https://github.com/Jaysurya046/Financial-Portfolio-Tracking-and-Alert-System) &nbsp; · &nbsp; [Browse all repositories →](https://github.com/Jaysurya046?tab=repositories)
 
 ## Toolkit
 
-| Area | Technologies I work with |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · JavaScript · Java · C++ · C |
-| **Frontend** | React · Next.js · HTML/CSS · Tailwind CSS · Bootstrap |
-| **Backend** | Node.js · Express · Fastify · Django · REST APIs · Socket.io |
-| **Data & storage** | PostgreSQL · MySQL · MongoDB · DynamoDB · Redis |
-| **Cloud & tools** | AWS · Lambda · API Gateway · S3 · Docker · Git |
-| **AI & automation** | Gemini API · Playwright · LLM tooling |
-| **Data analysis & ML** | Pandas · NumPy · scikit-learn |
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile.svg" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit — Languages, frontend, backend, data and storage, cloud and tools, AI and automation, and data analysis and ML. Expand the text version below for the full technology list." />
+</picture>
+
+<details>
+<summary>View toolkit as text</summary>
+
+- **Languages:** Python · TypeScript · JavaScript · Java · C++ · C
+- **Frontend:** React · Next.js · HTML/CSS · Tailwind CSS · Bootstrap
+- **Backend:** Node.js · Express · Fastify · Django · REST APIs · Socket.io
+- **Data & storage:** PostgreSQL · MySQL · MongoDB · DynamoDB · Redis
+- **Cloud & tools:** AWS · Lambda · API Gateway · S3 · Docker · Git
+- **AI & automation:** Gemini API · Playwright · LLM tooling
+- **Data analysis & ML:** Pandas · NumPy · scikit-learn
+
+</details>
 
 ## Highlights
 
